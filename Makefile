@@ -1,5 +1,5 @@
 PREFIX ?= /usr/local
-MANDIR ?= $(PREFIX)/share/man/man1/
+MANDIR ?= $(PREFIX)/share/man/man1
 BUILDTYPE ?= Release
 SHELL = /bin/sh
 
